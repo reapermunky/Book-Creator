@@ -21,3 +21,5 @@ Spam an entire bookshelf with niche manifestos.
 Trick your friends into thinking you spent months writing.
 
 The point isn’t writing. The point is automation. Have fun.
+
+Shared on Reddit 3/5/25
